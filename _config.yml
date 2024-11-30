@@ -21,7 +21,7 @@ repository               : "anyongm/anyongm.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "snow.jpg"
+  avatar           : "snow.png"
   name             : "Anyong"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
