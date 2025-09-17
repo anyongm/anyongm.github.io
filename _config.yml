@@ -21,14 +21,14 @@ repository               : "anyongm/anyongm.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "snow.jpg"
+  avatar           : "anyong22.jpg"
   name             : "Anyong"
   pronouns         : # example: "she/her"  
-  bio              : "a senior computer science student passionate about efficient machine learning systems"
-  location         : "Madison, WI"
-  employer         : "UW-Madison"
+  bio              : "a PhD student passionate about efficient machine learning systems"
+  location         : "Los Angeles, CA"
+  employer         : "USC"
   uri              : # URL
-  email            : "amao6@wisc.edu" 
+  email            : "anyong.mao@usc.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

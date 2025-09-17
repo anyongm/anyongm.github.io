@@ -8,7 +8,7 @@ redirect_from:
 ---
 Welcome!
 
-Hi, I'm Anyong, a senior computer science student at UW-Madison with a passionate about building efficient machine learning systems and optimizing ML serving pipelines. My interest lies in designing solutions that make AI models resource-efficient and production-ready.
+Hi, I'm Anyong, a first year PhD student at USC with a passionate about building efficient machine learning systems and optimizing ML inference pipelines. My interest lies in designing solutions that make AI models resource-efficient and production-ready.
 
 During my academic journey, I’ve worked on [sparse CNN](https://github.com/fangjunzhou/sparse-convolutional-neural-network) and [VLLM](https://github.com/Anyonering/vllm). I am deeply interested in the intersection of machine learning and system design, focusing on creating scalable and resource-optimized infrastructures for real-world applications. My ultimate goal is to make AI tools affordable and scalable, enabling everyone worldwide to benefit from them.
 
